@@ -17,12 +17,12 @@ ReleaseDate: 2026-08-03
 Installers:
 - Architecture: x86
   InstallerUrl: https://github.com/SurgeDM/Surge/releases/download/v0.11.2/Surge_0.11.2_windows_386.zip
-  InstallerSha256: 249CCF565A2395F7B56D7ED53B92958D814B632F50DAC1FB7CF03A8EEA34C3AD
+  InstallerSha256: 179560c37a32fb1a48b36021eced0697fc96d7f7f2c6a6f948385b354f4de9d1
 - Architecture: x64
   InstallerUrl: https://github.com/SurgeDM/Surge/releases/download/v0.11.2/Surge_0.11.2_windows_amd64.zip
-  InstallerSha256: BFD4CE87DD45A09B1219DA5472B431CBF2E3521054A1962F1D53F4DD95E49FA5
+  InstallerSha256: cdc5f26ffcebb027437f256e9a8c1d0d6bf26f1fe9bc2cb8f21c487795934ee1
 - Architecture: arm64
   InstallerUrl: https://github.com/SurgeDM/Surge/releases/download/v0.11.2/Surge_0.11.2_windows_arm64.zip
-  InstallerSha256: B68407CBD946624E407A81CBEB376374AC7F2AB877E3EB7C86683439724E48CA
+  InstallerSha256: 95fc88a95fa78d80da075725e84aeb3195cd09e56776b91e6f3849d110e421f3
 ManifestType: installer
 ManifestVersion: 1.12.0
